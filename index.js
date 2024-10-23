@@ -1,1 +1,1 @@
-alert("Hello javascript code running succesfully")
+alert("Hello javascript code running succesfully now")
